@@ -1,0 +1,28 @@
+.wholestyle {
+    background-color: black;
+    color: aqua;
+    text-align: center;
+}
+.wholestyle2 {
+    background-color: rgb(127, 127, 127);
+}
+h1 {
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+}
+button {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: 5px solid aqua;
+    border-radius: 50px;
+}
+.blurish {
+    background-color: blue;
+
+}
+img {
+    height: 700px;
+    width: auto;
+}
